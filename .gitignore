@@ -1,0 +1,10 @@
+# virtual environment
+venv/
+# bytecode
+__pycache__/
+*.pyc
+# env file with secrets
+.env
+# IDE/editor folders
+.vscode/
+.idea/
